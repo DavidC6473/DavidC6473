@@ -3,7 +3,7 @@
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
 
-- 🔭 I’m currently working on an [AI Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
+- 🔭 I’m currently working on an [Machine Learning Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
 
 - 🌱 I’m currently learning **Django**
 
