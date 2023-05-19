@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A developer beginning his journey from Ireland</h3>
 
+<h3>Check out my [Personal Website](https://david-clarke.com)</h3>
+
 - 🔭 I’m currently working on an [AI Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
 
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
-- Check out my [Personal Website](https://david-clarke.com)
+- 
 
 
 <h3 align="left">Languages and Tools:</h3>
