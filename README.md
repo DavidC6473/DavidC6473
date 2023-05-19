@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
-- Check out my [personal website](https://david-clarke.com)
+- Check out my [Personal Website](https://david-clarke.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
