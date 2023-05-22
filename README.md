@@ -52,4 +52,4 @@
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidC6473&theme=radical](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
