@@ -7,7 +7,7 @@
 - 📫 How to reach me: **dcc6473@gmail.com**
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=tokyonight)
 
 ## Languages and Tools
 <p align="left">
@@ -48,4 +48,4 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidC6473&layout=donut&langs_count=10&exclude_repo=Python-Video-Quality-Metrics)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidC6473&layout=donut&langs_count=10&exclude_repo=Python-Video-Quality-Metrics&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
