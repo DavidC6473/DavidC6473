@@ -2,13 +2,16 @@
 ## A developer beginning his journey from Ireland
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
+
 - 🔭 I’m currently working on a [Machine Learning Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
+
 - 🌱 I’m currently learning **Django**
+
 - 👨‍💻 All of my projects are available at [david-clarke.com](david-clarke.com)
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kSpHakbIRiE8FOFFsqaDTQ0f7hzUUDoR/view](https://drive.google.com/file/d/1kSpHakbIRiE8FOFFsqaDTQ0f7hzUUDoR/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1kSpHakbIRiE8FOFFsqaDTQ0f7hzUUDoR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
