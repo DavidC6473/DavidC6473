@@ -6,9 +6,6 @@
 - 🌱 I’m currently learning **Django**
 - 📫 How to reach me: **dcc6473@gmail.com**
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=radical)
-
 ## Languages and Tools
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
@@ -45,6 +42,9 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=radical)
 
 ## Top Languages
 
