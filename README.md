@@ -45,3 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidC6473&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
