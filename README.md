@@ -23,7 +23,9 @@
 
 <details>
   <summary>My Stats</summary>
+  
   <br>
+  
   ## GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=radical)
 
