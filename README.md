@@ -23,7 +23,7 @@
 
 
 <details>
-  <summary>My Stats</summary>
+  ## <summary>My Stats</summary>
   
   <br>
   
