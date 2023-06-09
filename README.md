@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [Machine Learning Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django & React**
 
 - 👨‍💻 My projects are available at [david-clarke.com](david-clarke.com)
 
