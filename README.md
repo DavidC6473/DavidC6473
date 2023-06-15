@@ -1,5 +1,5 @@
 # Hi 👋, I'm David
-## A developer from Ireland :four_leaf_clover: beginning his journey in Australia :kangaroo:
+## I'm a developer from Ireland :four_leaf_clover: beginning my career in Australia :kangaroo:
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
 
