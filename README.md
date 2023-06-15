@@ -1,5 +1,5 @@
 # Hi 👋, I'm David
-## A developer beginning his journey from Ireland
+## A developer from Ireland :ireland: beginning his journey in Australia :australia:
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
 
