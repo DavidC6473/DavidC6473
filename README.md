@@ -30,10 +30,6 @@
   ## GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidC6473&show_icons=true&theme=radical)
 
-  ## Top Languages
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidC6473&layout=donut&langs_count=10&exclude_repo=Python-Video-Quality-Metrics&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
   ## Trophies
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=DavidC6473&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
