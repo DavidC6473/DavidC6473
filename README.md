@@ -34,8 +34,6 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=DavidC6473&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
-
-## Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidc6473&theme=radical" alt="davidc6473" /></p>
-</details>
+  ## Streaks
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidc6473&theme=radical" alt="davidc6473" /></p>
+  </details>
