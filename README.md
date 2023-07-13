@@ -37,5 +37,5 @@
 <br>
 
 ## Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidc6473&radical" alt="davidc6473" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidc6473&theme=radical" alt="davidc6473" /></p>
 </details>
