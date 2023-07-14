@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1kSpHakbIRiE8FOFFsqaDTQ0f7hzUUDoR/view)
+- 📄 Check out my [Resume](https://david-clarke.com/static/media/David-Clarke-CV.6cccb036.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
