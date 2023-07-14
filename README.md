@@ -1,4 +1,5 @@
-# Hi 👋, I'm David
+
+# Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm David
 ## I'm a developer from Ireland :four_leaf_clover: living in Australia :kangaroo:
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
