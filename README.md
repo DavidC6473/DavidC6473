@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ***Python & Django*** for web applications
 
-- 👨‍💻 My projects are available at [david-clarke.com](david-clarke.com)
+- 👨‍💻 My projects are available at [david-clarke.com](https://www.david-clarke.com)
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
