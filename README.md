@@ -26,6 +26,7 @@
 #### Latest DEV.to posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [My portfolio website is live!](https://dev.to/davidclarke/my-portfolio-website-is-live-2jbp)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
