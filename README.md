@@ -28,6 +28,8 @@
 - [My portfolio website is live!](https://dev.to/davidclarke/my-portfolio-website-is-live-2jbp)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidc6473&label=Profile%20views&color=0e75b6&style=flat" alt="davidc6473" /> </p>
+
 <details>
   <summary>My Stats</summary>
   
@@ -44,4 +46,3 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidc6473&theme=radical" alt="davidc6473" /></p>
   </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidc6473&label=Profile%20views&color=0e75b6&style=flat" alt="davidc6473" /> </p>
