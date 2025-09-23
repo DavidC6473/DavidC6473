@@ -1,18 +1,18 @@
 
 # Hi, I'm David <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-## I'm a developer from Ireland :four_leaf_clover: living in New Zealand :new_zealand:
+## I'm a software developer from Ireland, living in Dublin :🇮🇪:
 
-- :desktop_computer: Check out my [Personal Website](https://david-clarke.com)
+- :desktop_computer: Check out my [Personal Website](https://david-clarke.dev)
 
 - 🔭 I’m currently working on a [Machine Learning Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
 
 - 🌱 I’m currently learning ***Python & Django*** for web applications
 
-- 👨‍💻 My projects are available at [david-clarke.com](https://www.david-clarke.com)
+- 👨‍💻 My projects are available at [david-clarke.dev](https://www.david-clarke.dev)
 
 - 📫 How to reach me **dcc6473@gmail.com**
 
-- 📄 Check out my [Resume](https://david-clarke.com/static/media/David-Clarke-CV.6cccb036.pdf)
+- 📄 Check out my [Resume](https://david-clarke.dev/static/media/David-Clarke-CV.6cccb036.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
