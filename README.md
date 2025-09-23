@@ -1,6 +1,6 @@
 
 # Hi, I'm David <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-## I'm a software developer living in Dublin :ireland-flag:
+## I'm a software developer living in Dublin :ireland:
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.dev)
 
