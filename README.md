@@ -10,9 +10,7 @@
 
 - 👨‍💻 My projects are available at [david-clarke.dev](https://www.david-clarke.dev)
 
-- 📫 How to reach me **dcc6473@gmail.com**
-
-- 📄 Check out my [Resume](https://david-clarke.dev/static/media/David-Clarke-CV.6cccb036.pdf)
+- 📫 How to reach me **dev.davidclarke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
