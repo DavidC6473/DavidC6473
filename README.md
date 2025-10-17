@@ -4,9 +4,9 @@
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.dev)
 
-- 🔭 I’m currently working on a [Machine Learning Music Genre Classifier](https://github.com/DavidC6473/music-genre-classifier.git)
+- 🔭 I’m currently working on a [spotify-analytics](https://github.com/DavidC6473/spotify-analytics)
 
-- 🌱 I’m currently learning ***Python & Django*** for web applications
+- 🌱 I’m currently learning ***Data Analytics*** with Python
 
 - 👨‍💻 My projects are available at [david-clarke.dev](https://www.david-clarke.dev)
 
