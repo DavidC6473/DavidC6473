@@ -4,7 +4,7 @@
 
 - :desktop_computer: Check out my [Personal Website](https://david-clarke.dev)
 
-- 🔭 I’m currently working on a [tmdb-explorer]([https://github.com/DavidC6473/tmbd-explorer.git])
+- 🔭 I’m currently working on a [tmdb-explorer](https://github.com/DavidC6473/tmbd-explorer.git)
 
 - 🌱 I’m currently learning ***Data Analytics*** with Python
 
